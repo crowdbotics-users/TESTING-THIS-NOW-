@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT chloel_crowdbotics_133.wsgi:application
